@@ -6,4 +6,5 @@ have the main() which called the CreateWardFrame class first, to create the stru
 ward, then we have four buttons to show those options of operating(ward, patient and doctor),
 then we can click then button and run those functions and methods.
 
-![image](https://github.com/damonJiangCode/HospitalSystem/assets/133690712/1ca90474-9aba-4dd5-92c9-f0b29fd63243)
+
+<img width="775" alt="Screenshot 2024-02-27 at 22 20 26" src="https://github.com/damonJiangCode/HospitalSystem/assets/133690712/9049dbb3-943e-4784-abcd-d1cb1ecc7e48">
